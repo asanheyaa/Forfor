@@ -106,6 +106,8 @@ body {
 	font-size: 16px;
 	background-color: #ecece4;
 	color: #484036
+	position: fixed; 
+	height: 100% 
 }
 
 body._lock {
