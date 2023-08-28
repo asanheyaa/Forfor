@@ -1489,6 +1489,10 @@ body._lock {
     max-width: 850px;
   }
 
+  .scrollbar-track {
+    display: none !important;
+  }
+
   .section_3__title {
     font-size: 70px;
   }
